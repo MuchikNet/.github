@@ -2,7 +2,7 @@
 
 :computer: [Muchik.net](https://muchik.net)
 
-:e-mail: <a href="mailto:info@muchik.net">info @ muchik.net</a>
+:e-mail: [info @ muchik.net](mailto:info@muchik.net)
 
 ### :rocket: Social
 [Twitter](https://twitter.com/muchiknet) |
@@ -10,5 +10,5 @@
 
 ### :link: Links
 
-* [Documentación](https://doc.muchik.net/)
-* [Diccionario](https://ong.muchik.net/)
+* [Publicaciones y documentación](https://doc.muchik.net/)
+* [Diccionario de la lengua Muchik](https://ong.muchik.net/)
