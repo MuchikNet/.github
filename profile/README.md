@@ -10,5 +10,5 @@
 
 ### :link: Links
 
-* [Publicaciones y documentación](https://doc.muchik.net/)
-* [Diccionario de la lengua Muchik](https://ong.muchik.net/)
+* [Publicaciones y documentación](https://muchik.net/documentacion)
+* [Diccionario de la lengua Muchik](https://muchik.net/diccionario)
